@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">android-biometric-authentication-demo</string>
+
+    <string name="authentication_error">Authentication error<br/>errorCode: %1$d. errorString: %2$s</string>
+    <string name="authentication_failed">Authentication failed for an unknown reason</string>
+    <string name="authentication_success">Biometric Authentication Success</string>
+</resources>
