@@ -276,3 +276,8 @@ private fun getAndDecrypt(cipher: Cipher): String {
 ```
 
 You can find most of the cryptograhpy code inside [CryptographyUtil.kt](app/src/main/java/com/linecorp/id/research/biometricdemo/util/CryptographyUtil.kt)
+
+# Contributors
+
+- [@ferryyuwono](https://github.com/ferryyuwono)
+- [@aldoKelvianto](https://github.com/aldoKelvianto)
